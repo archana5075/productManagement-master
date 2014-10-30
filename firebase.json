@@ -1,0 +1,9 @@
+{
+  "firebase": "product-management",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
